@@ -93,15 +93,10 @@ It helps businesses understand whether an influencer has a genuinely positive au
 
 ---
 
-## 📊 Dashboard Previews
-*(Add screenshots when uploading)*  
+## 📊 Dashboard Previews  
 - Sentiment distribution  
 - Most common positive/negative phrases  
 - Influencer action frequency  
 - Engagement statistics per video  
 
 ---
-
-## 🔧 How to Run the Project
-
-### **1. Install Dependencies**
